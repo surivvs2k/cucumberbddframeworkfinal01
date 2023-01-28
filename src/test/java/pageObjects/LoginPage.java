@@ -50,7 +50,7 @@ public class LoginPage {
 	}
 		
 	public void clickLogout(){
-		lnkLogout.click();;
+		lnkLogout.click();
 		
 		
 	}

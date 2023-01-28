@@ -1,0 +1,989 @@
+2022-12-31 22:33:56,825 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2022-12-31 22:33:56,908 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2022-12-31 22:33:59,518 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2022-12-31 22:33:59,728 [main] INFO cucumberbddframework2 - ******* started Login *******
+2022-12-31 22:34:19,739 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2022-12-31 22:34:19,740 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2022-12-31 22:34:26,869 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2022-12-31 22:34:30,601 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2022-12-31 22:34:32,754 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2022-12-31 22:34:32,757 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2022-12-31 22:34:35,794 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2022-12-31 22:34:35,993 [main] INFO cucumberbddframework2 - ******* started Login *******
+2022-12-31 22:34:50,683 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2022-12-31 22:34:53,921 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2022-12-31 22:34:55,943 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2022-12-31 22:34:55,945 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2022-12-31 22:34:59,408 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2022-12-31 22:34:59,601 [main] INFO cucumberbddframework2 - ******* started Login *******
+2022-12-31 22:35:12,194 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2022-12-31 22:35:15,510 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2022-12-31 22:35:17,669 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2022-12-31 22:35:17,670 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2022-12-31 22:35:20,883 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2022-12-31 22:35:21,080 [main] INFO cucumberbddframework2 - ******* started Login *******
+2022-12-31 22:35:25,759 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2022-12-31 22:35:25,766 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2022-12-31 22:35:30,721 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2022-12-31 22:35:30,726 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2022-12-31 22:35:32,679 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2022-12-31 22:35:32,680 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2022-12-31 22:35:35,985 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2022-12-31 22:35:36,181 [main] INFO cucumberbddframework2 - ******* started Login *******
+2022-12-31 22:35:40,955 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2022-12-31 22:35:40,961 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2022-12-31 22:35:45,875 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2022-12-31 22:35:45,880 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2022-12-31 22:35:48,103 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2022-12-31 22:35:48,126 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2022-12-31 22:35:50,136 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2022-12-31 22:35:50,332 [main] INFO cucumberbddframework2 - ******* started Login *******
+2022-12-31 22:36:07,010 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2022-12-31 23:59:45,232 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2022-12-31 23:59:45,260 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2022-12-31 23:59:48,520 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2022-12-31 23:59:48,735 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 00:00:07,159 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-01 00:00:07,161 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-01 00:00:14,253 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-01 00:00:17,924 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-01 00:00:20,029 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:00:20,034 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 00:00:23,449 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-01 00:00:23,652 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 00:00:36,929 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-01 00:00:40,207 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-01 00:00:42,372 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:00:42,375 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 00:00:45,612 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-01 00:00:45,801 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 00:00:59,724 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-01 00:01:03,049 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-01 00:13:16,241 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:13:16,270 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 00:13:18,764 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-01 00:13:18,945 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 00:13:35,558 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-01 00:13:35,559 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-01 00:13:43,159 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-01 00:13:47,131 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-01 00:13:53,868 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:13:53,870 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 00:13:56,258 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-01 00:13:56,350 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 00:14:09,622 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-01 00:14:12,983 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-01 00:14:19,591 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:14:19,593 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 00:14:21,455 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-01 00:14:21,544 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 00:14:33,343 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-01 00:14:36,686 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-01 00:15:25,640 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:15:25,668 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 00:18:28,485 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:18:28,499 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 00:21:31,484 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:21:31,486 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 00:33:52,648 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 00:33:52,719 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 08:47:35,157 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 08:47:35,417 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 08:50:38,951 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 08:50:38,974 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 08:53:41,748 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 08:53:41,751 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 08:55:57,075 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 08:55:57,112 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 22:59:33,488 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 22:59:33,602 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 22:59:36,276 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-01 22:59:36,425 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 22:59:55,702 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-01 22:59:55,702 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-01 23:00:03,214 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-01 23:00:07,357 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-01 23:00:13,882 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 23:00:13,884 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 23:00:16,422 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-01 23:00:16,502 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 23:00:28,331 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-01 23:00:31,683 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-01 23:00:40,543 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-01 23:00:40,545 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-01 23:00:42,299 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-01 23:00:42,432 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-01 23:00:54,831 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-01 23:00:58,197 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-02 20:35:31,058 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-02 20:35:31,146 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-02 20:35:33,618 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-02 20:35:33,803 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-02 20:35:52,204 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-02 20:35:52,205 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-02 20:35:59,775 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-02 20:36:03,660 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-02 20:36:09,481 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-02 20:36:09,488 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-02 20:36:11,944 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-02 20:36:12,036 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-02 20:36:25,144 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-02 20:36:28,486 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-02 20:36:34,347 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-02 20:36:34,351 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-02 20:36:36,665 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-02 20:36:36,753 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-02 20:36:47,696 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-02 20:36:51,053 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-03 07:35:44,764 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-03 07:35:44,926 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-03 07:35:47,790 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-03 07:35:47,994 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-03 07:36:04,950 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-03 07:36:04,961 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-03 07:36:12,652 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-03 07:36:16,500 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-03 07:36:23,843 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-03 07:36:23,844 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-03 07:36:26,210 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-03 07:36:26,302 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-03 07:36:38,023 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-03 07:36:41,372 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-03 07:36:47,098 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-03 07:36:47,100 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-03 07:36:48,727 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-03 07:36:48,818 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-03 07:37:00,516 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-03 07:37:03,860 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-03 07:48:37,181 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-03 07:48:37,337 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-03 07:48:39,635 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-03 07:48:39,739 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-03 07:48:56,493 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-03 07:48:56,494 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-03 07:49:04,153 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-03 07:49:08,496 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-03 07:49:15,152 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-03 07:49:15,153 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-03 07:49:17,571 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-03 07:49:17,678 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-03 07:49:30,982 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-03 07:49:34,318 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-03 07:49:40,198 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-03 07:49:40,200 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-03 07:49:42,431 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-03 07:49:42,555 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-03 07:49:53,463 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-03 07:49:56,772 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:23:01,217 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:23:01,465 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:23:04,033 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:23:04,246 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:23:23,353 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-04 08:23:23,353 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-04 08:23:30,424 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-04 08:23:34,163 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:23:36,427 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:23:36,428 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:23:39,733 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:23:39,944 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:23:51,873 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 08:23:55,133 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:23:57,242 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:23:57,243 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:24:00,758 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:24:00,948 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:24:14,089 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 08:24:17,412 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:27:53,609 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:27:53,655 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:27:56,883 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:27:57,103 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:28:18,346 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-04 08:28:18,346 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-04 08:28:25,395 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-04 08:28:29,114 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:28:31,280 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:28:31,281 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:28:34,232 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:28:34,427 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:28:48,036 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 08:28:51,293 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:28:53,368 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:28:53,369 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:28:55,776 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:28:55,967 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:29:08,495 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 08:29:11,786 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:39:36,166 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:39:36,189 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:39:39,128 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:39:39,338 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:39:58,068 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-04 08:39:58,069 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-04 08:40:05,181 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-04 08:40:08,829 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:40:11,040 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:40:11,042 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:40:14,060 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:40:14,272 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:40:28,224 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 08:40:31,502 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 08:40:33,550 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 08:40:33,554 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 08:40:36,456 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 08:40:36,677 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 08:40:49,896 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 08:40:53,241 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 10:13:51,925 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 10:13:52,022 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 10:14:02,395 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 10:14:02,592 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 10:14:23,622 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-04 10:14:23,623 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-04 10:14:30,645 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-04 10:14:34,312 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 10:33:46,362 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 10:33:46,402 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 10:33:49,354 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 10:33:49,578 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 10:34:07,626 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-04 10:34:07,628 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-04 10:34:14,754 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-04 10:34:18,452 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 10:34:20,527 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 10:34:20,529 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 10:34:23,670 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 10:34:23,868 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 10:34:27,922 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 10:34:27,929 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-04 10:34:32,358 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 10:34:32,363 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:07:18,197 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:07:18,339 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:07:22,444 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:07:22,653 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:07:45,260 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-04 23:07:45,261 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-04 23:07:52,455 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-04 23:07:56,496 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:07:58,882 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:07:58,883 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:08:02,377 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:08:02,572 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:08:19,323 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 23:08:22,606 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:08:25,089 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:08:25,101 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:08:27,826 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:08:28,022 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:08:43,226 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 23:08:46,556 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:08:48,692 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:08:48,695 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:08:51,262 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:08:51,460 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:08:55,483 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:08:55,491 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-04 23:09:00,162 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:09:00,167 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:09:02,141 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:09:02,145 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:09:06,636 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:09:06,865 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:09:12,921 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:09:12,927 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-04 23:09:15,405 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:09:15,406 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:09:19,643 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:09:19,860 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:09:37,549 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-04 23:23:47,090 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:23:47,114 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:23:51,351 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:23:51,571 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:24:13,273 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-04 23:24:13,274 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-04 23:24:20,434 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-04 23:24:26,171 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:24:28,185 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:24:28,186 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:24:32,006 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:24:32,213 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:24:47,338 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 23:24:50,607 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:24:52,693 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:24:52,696 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:24:56,428 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:24:56,629 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:25:11,057 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 23:25:14,363 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:25:16,477 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:25:16,504 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:25:20,288 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:25:20,483 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:25:25,171 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:25:25,180 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-04 23:25:28,233 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:25:29,681 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:25:29,682 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:25:33,610 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:25:33,810 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:25:39,617 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:25:39,622 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-04 23:25:42,643 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:25:44,554 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:25:44,555 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:25:51,792 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:25:51,999 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:26:08,782 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-04 23:32:36,133 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:32:36,156 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:32:41,169 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:32:41,381 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:33:01,682 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-04 23:33:01,683 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-04 23:33:08,778 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-04 23:33:13,091 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:33:15,424 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:33:15,572 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:33:19,916 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:33:20,109 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:33:34,573 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 23:33:37,860 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:33:40,521 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:33:40,522 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:33:44,476 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:33:44,675 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:33:58,093 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-04 23:34:01,363 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:34:03,626 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:34:03,631 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:34:07,524 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:34:07,727 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:34:13,560 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:34:13,566 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-04 23:34:18,500 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:34:18,511 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-04 23:34:20,774 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:34:20,779 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:34:24,646 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:34:24,863 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:34:29,854 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-04 23:34:29,859 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-04 23:34:32,549 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-04 23:34:32,605 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-04 23:34:36,418 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-04 23:34:36,619 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-04 23:34:53,547 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 06:52:50,856 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 06:52:51,096 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 06:52:54,305 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 06:52:54,509 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 06:53:13,776 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 06:53:13,776 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 06:53:20,914 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 06:53:24,543 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 06:53:26,586 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 06:53:26,617 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 06:53:29,745 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 06:53:29,941 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 06:53:43,134 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 06:53:46,413 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 06:53:48,641 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 06:53:48,655 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 06:53:51,973 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 06:53:52,168 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 06:54:05,359 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 06:54:08,687 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 06:54:10,814 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 06:54:10,824 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 06:54:14,162 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 06:54:14,351 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 06:54:18,344 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 06:54:18,354 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 06:54:22,719 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 06:54:22,719 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 06:54:24,718 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 06:54:24,739 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 06:54:27,718 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 06:54:27,916 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 06:54:31,846 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 06:54:31,851 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 06:54:36,239 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 06:54:36,239 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 06:54:38,189 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 06:54:38,194 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 06:54:41,581 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 06:54:41,777 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 06:54:42,471 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 07:12:36,241 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:12:36,414 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:12:39,288 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:12:39,491 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:12:58,044 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 07:12:58,045 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 07:13:05,161 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 07:13:08,831 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:13:10,935 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:13:10,945 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:13:14,190 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:13:14,385 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:13:27,554 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 07:13:30,828 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:13:32,843 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:13:32,857 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:13:36,064 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:13:36,260 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:13:49,507 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 07:13:52,835 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:13:54,900 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:13:55,017 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:13:58,274 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:13:58,470 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:14:02,365 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:14:02,375 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 07:14:06,787 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:14:06,787 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:14:08,887 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:14:08,894 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:14:11,987 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:14:12,183 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:14:15,991 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:14:15,997 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 07:14:20,339 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:14:20,339 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:14:22,357 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:14:22,363 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:14:25,320 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:14:25,520 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:14:26,194 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 07:14:26,195 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 07:14:58,183 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:14:58,222 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:15:00,454 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:15:00,664 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:15:18,319 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 07:15:18,322 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 07:15:25,378 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 07:15:29,083 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:15:31,147 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:15:31,157 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:15:34,676 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:15:34,870 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:15:48,143 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 07:15:51,407 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:15:53,336 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:15:53,336 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:15:56,919 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:15:57,126 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:16:10,284 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 07:16:13,631 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:16:15,759 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:16:15,811 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:16:18,341 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:16:18,536 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:16:22,572 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:16:22,579 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 07:16:26,938 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:16:26,938 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:16:29,029 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:16:29,039 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:16:32,293 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:16:32,488 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:16:35,697 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:16:35,703 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 07:16:40,053 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:16:40,053 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:16:42,133 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:16:42,138 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:16:45,111 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:16:45,312 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:16:46,659 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 07:23:35,845 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:23:35,872 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:23:38,811 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:23:39,036 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:23:59,017 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 07:23:59,017 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 07:24:06,130 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 07:24:09,822 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:24:11,810 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:24:11,821 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:24:14,539 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:24:14,734 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:24:28,042 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 07:24:31,290 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:24:33,230 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:24:33,245 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:24:36,453 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:24:36,654 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:24:50,747 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 07:24:54,033 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:24:56,086 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:24:56,162 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:24:58,353 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:24:58,545 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:25:03,287 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:25:03,298 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 07:25:08,290 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:25:08,290 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:25:10,170 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:25:10,174 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:25:13,024 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:25:13,220 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:25:15,727 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:25:17,171 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:25:17,237 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:25:20,658 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:25:20,865 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:25:22,306 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 07:28:12,343 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:28:12,395 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:28:15,432 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:28:15,639 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:28:34,163 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 07:28:34,163 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 07:28:41,263 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 07:28:44,973 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:28:47,027 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:28:47,033 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:28:50,221 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:28:50,414 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:29:05,143 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 07:29:08,381 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:29:10,447 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:29:10,453 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:29:13,530 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:29:13,740 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:29:27,704 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 07:29:30,991 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:29:33,288 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:29:33,294 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:29:35,638 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:29:35,830 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:29:39,922 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:29:39,930 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 07:29:44,263 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:29:44,263 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:29:46,326 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:29:46,331 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:29:48,426 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:29:48,626 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:29:52,582 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:29:52,587 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 07:29:56,915 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 07:29:56,915 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 07:29:58,894 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 07:29:58,900 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 07:30:02,023 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 07:30:02,230 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 07:30:18,852 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 08:08:22,274 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:08:22,305 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:08:25,474 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:08:25,686 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:08:44,036 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 08:08:44,036 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 08:08:51,096 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 08:08:54,765 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:08:56,952 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:08:56,967 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:09:00,352 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:09:00,548 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:09:13,698 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 08:09:16,968 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:09:19,012 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:09:19,012 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:09:21,583 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:09:21,782 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:09:34,965 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 08:09:38,317 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:09:40,383 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:09:40,383 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:09:43,249 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:09:43,443 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:09:47,336 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:09:47,343 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 08:09:51,848 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:09:51,848 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:09:53,884 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:09:53,884 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:09:55,991 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:09:56,182 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:10:00,146 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:10:00,152 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 08:10:04,490 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:10:04,490 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:10:06,459 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:10:06,459 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:10:09,795 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:10:09,992 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:10:26,627 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 08:21:18,866 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:21:18,893 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:21:21,883 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:21:22,092 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:21:40,627 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 08:21:40,628 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 08:21:47,731 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 08:21:51,445 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:21:53,544 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:21:53,574 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:21:56,522 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:21:56,717 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:22:10,398 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 08:22:13,658 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:22:15,874 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:22:15,878 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:22:18,079 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:22:18,272 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:22:31,552 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 08:22:34,874 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:22:36,949 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:22:36,969 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:22:39,548 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:22:39,737 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:22:44,450 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:22:44,457 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 08:22:49,387 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:22:49,391 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:22:51,315 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:22:51,317 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:22:53,615 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:22:53,806 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:22:57,791 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:22:57,797 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 08:23:02,335 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:23:02,340 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:23:04,418 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:23:04,419 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:23:07,404 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:23:07,603 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:23:24,369 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 08:45:10,899 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:45:10,930 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:45:13,789 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:45:13,995 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:45:32,614 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 08:45:32,616 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 08:45:39,654 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 08:45:43,420 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:45:45,628 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:45:45,644 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:45:48,704 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:45:48,903 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:46:02,174 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 08:46:05,447 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:46:07,574 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:46:07,752 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:46:10,692 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:46:10,899 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:46:24,099 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 08:46:27,412 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:46:29,458 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:46:29,460 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:46:32,033 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:46:32,225 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:46:34,614 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:46:34,624 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 08:46:39,015 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:46:39,015 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:46:41,062 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:46:41,109 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:46:44,942 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:46:45,132 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:46:48,939 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:46:48,944 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 08:46:53,315 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 08:46:53,315 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 08:46:55,403 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 08:46:55,430 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 08:46:58,157 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 08:46:58,356 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 08:47:15,749 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 22:54:00,961 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 22:54:01,164 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 22:54:04,201 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 22:54:04,439 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 22:54:23,569 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 22:54:23,570 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 22:54:30,673 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 22:54:34,504 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 22:54:36,627 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 22:54:36,628 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 22:54:40,037 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 22:54:40,242 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 22:54:54,659 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 22:54:57,951 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 22:55:00,089 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 22:55:00,100 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 22:55:02,648 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 22:55:02,841 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 22:55:17,094 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 22:55:20,421 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 22:55:22,598 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 22:55:22,602 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 22:55:25,102 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 22:55:25,303 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 22:55:30,256 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 22:55:30,264 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 22:55:34,829 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 22:55:34,834 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 22:55:36,927 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 22:55:36,928 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 22:55:40,854 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 22:55:41,069 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 22:55:45,228 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 22:55:45,233 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 22:55:49,877 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 22:55:49,882 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 22:55:51,984 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 22:55:51,988 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 22:55:54,748 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 22:55:54,946 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 22:56:12,378 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-05 23:07:45,326 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 23:07:45,370 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 23:07:49,006 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 23:07:49,218 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 23:08:09,028 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-05 23:08:09,029 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-05 23:08:16,136 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-05 23:08:20,048 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 23:08:22,179 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 23:08:22,180 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 23:08:25,849 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 23:08:26,048 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 23:08:44,400 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 23:08:47,742 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 23:08:49,809 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 23:08:49,810 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 23:08:53,206 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 23:08:53,404 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 23:09:07,271 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-05 23:09:10,603 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 23:09:12,813 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 23:09:12,815 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 23:09:16,162 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 23:09:16,358 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 23:09:21,262 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 23:09:21,268 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 23:09:25,799 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 23:09:25,804 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 23:09:27,853 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 23:09:27,854 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 23:09:30,656 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 23:09:30,856 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 23:09:35,840 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 23:09:35,845 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-05 23:09:40,363 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-05 23:09:40,368 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-05 23:09:42,572 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-05 23:09:42,574 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-05 23:09:46,489 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-05 23:09:46,686 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-05 23:10:04,147 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-06 22:42:43,272 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-06 22:42:43,581 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-06 22:42:46,710 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-06 22:42:47,316 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-06 22:43:11,194 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-06 22:43:11,195 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-06 22:43:18,331 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-06 22:43:22,190 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-06 22:43:24,415 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-06 22:43:24,420 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-06 22:43:28,088 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-06 22:43:28,279 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-06 22:43:41,362 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-06 22:43:44,651 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-06 22:43:46,791 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-06 22:43:46,793 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-06 22:43:50,385 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-06 22:43:50,578 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-06 22:44:03,391 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-06 22:44:06,715 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-06 22:44:08,867 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-06 22:44:08,872 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-06 22:44:12,218 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-06 22:44:12,405 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-06 22:44:17,388 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-06 22:44:17,396 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-06 22:44:21,959 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-06 22:44:21,963 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-06 22:44:24,005 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-06 22:44:24,007 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-06 22:44:26,689 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-06 22:44:26,887 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-06 22:44:32,795 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-06 22:44:32,800 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-06 22:44:37,279 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-06 22:44:37,283 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-06 22:44:39,318 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-06 22:44:39,357 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-06 22:44:42,686 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-06 22:44:42,879 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-06 22:45:00,360 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-07 22:58:40,217 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 22:58:40,479 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 22:58:42,401 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 22:58:42,616 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 22:59:08,098 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-07 22:59:08,100 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-07 22:59:15,183 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-07 22:59:19,620 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 22:59:21,801 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 22:59:21,803 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 22:59:25,297 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 22:59:25,488 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 22:59:40,618 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-07 22:59:43,876 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 22:59:45,955 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 22:59:45,957 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 22:59:50,031 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 22:59:50,227 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:00:06,477 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-07 23:00:09,761 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 23:00:11,921 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:00:11,922 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:00:16,189 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:00:16,386 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:00:19,885 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-07 23:00:19,893 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-07 23:00:24,847 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-07 23:00:24,852 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 23:00:26,959 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:00:26,960 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:00:30,102 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:00:30,295 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:00:35,959 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-07 23:00:36,028 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-07 23:00:40,927 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-07 23:00:40,932 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 23:00:42,994 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:00:42,999 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:00:45,795 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:00:45,992 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:01:02,857 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-07 23:03:16,961 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:03:16,989 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:03:21,235 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:03:21,484 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:03:45,703 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-07 23:03:45,704 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-07 23:03:52,873 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-07 23:03:57,067 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 23:03:59,126 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:03:59,128 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:04:03,543 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:04:03,739 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:04:16,162 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-07 23:04:19,400 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 23:04:21,398 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:04:21,594 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:04:25,444 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:04:25,635 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:04:41,989 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-07 23:04:45,376 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 23:04:47,415 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:04:47,419 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:04:51,617 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:04:51,846 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:04:58,233 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-07 23:04:58,243 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-07 23:05:00,674 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:05:00,677 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:05:03,837 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:05:04,034 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:05:07,054 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-07 23:05:07,058 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-07 23:05:11,701 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-07 23:05:11,706 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-07 23:05:13,894 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-07 23:05:13,896 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-07 23:05:18,379 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-07 23:05:18,646 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-07 23:05:36,379 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-12 09:18:12,642 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-12 09:18:12,828 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-12 09:18:15,503 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-12 09:18:15,717 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-12 09:18:36,791 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-12 09:18:36,792 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-12 09:18:43,903 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-12 09:18:47,752 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-12 09:18:49,870 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-12 09:18:49,880 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-12 09:18:53,172 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-12 09:18:53,385 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-12 09:19:06,075 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-12 09:19:09,332 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-12 09:19:11,444 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-12 09:19:11,451 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-12 09:19:14,197 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-12 09:19:14,395 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-12 09:19:27,921 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-12 09:19:31,261 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-12 09:19:33,359 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-12 09:19:33,403 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-12 09:19:36,023 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-12 09:19:36,236 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-12 09:19:39,552 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-12 09:19:39,562 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-12 09:19:43,966 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-12 09:19:43,966 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-12 09:19:46,221 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-12 09:19:46,221 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-12 09:19:49,009 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-12 09:19:49,206 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-12 09:19:51,767 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-12 09:19:51,772 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-12 09:19:56,229 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-12 09:19:56,229 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-12 09:19:58,144 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-12 09:19:58,148 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-12 09:20:00,257 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-12 09:20:00,474 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-12 09:20:17,909 [main] INFO cucumberbddframework2 - ******* Login passed *******
+2023-01-28 12:51:36,412 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-28 12:51:36,620 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-28 12:51:38,493 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-28 12:51:38,747 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-28 12:51:58,067 [main] INFO cucumberbddframework2 - ******* Add new Customer *******
+2023-01-28 12:51:58,069 [main] INFO cucumberbddframework2 - ******* Providing Customer Details *******
+2023-01-28 12:52:05,396 [main] INFO cucumberbddframework2 - ******* Save Customer Data *******
+2023-01-28 12:52:09,727 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-28 12:52:11,815 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-28 12:52:11,909 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-28 12:52:18,388 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-28 12:52:18,623 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-28 12:52:33,116 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-28 12:52:36,486 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-28 12:52:38,558 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-28 12:52:38,560 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-28 12:52:41,213 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-28 12:52:41,421 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-28 12:52:55,783 [main] INFO cucumberbddframework2 - ******* Searching Customer by Email ID *******
+2023-01-28 12:52:59,110 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-28 12:53:01,267 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-28 12:53:01,268 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-28 12:53:04,119 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-28 12:53:04,312 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-28 12:53:10,987 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-28 12:53:10,999 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-28 12:53:15,621 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-28 12:53:15,625 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-28 12:53:17,730 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-28 12:53:17,742 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-28 12:53:20,210 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-28 12:53:20,413 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-28 12:53:27,018 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-28 12:53:27,023 [main] INFO cucumberbddframework2 - ******* Click on Logout link *******
+2023-01-28 12:53:31,819 [main] INFO cucumberbddframework2 - ******* Login failed *******
+2023-01-28 12:53:31,823 [main] INFO cucumberbddframework2 - ******* Closing Browser *******
+2023-01-28 12:53:33,865 [main] INFO cucumberbddframework2 - ******* Launching Browser *******
+2023-01-28 12:53:33,869 [main] INFO cucumberbddframework2 - ******* Opening URL *******
+2023-01-28 12:53:35,764 [main] INFO cucumberbddframework2 - ******* Providing Login Details *******
+2023-01-28 12:53:35,963 [main] INFO cucumberbddframework2 - ******* started Login *******
+2023-01-28 12:53:52,575 [main] INFO cucumberbddframework2 - ******* Login passed *******
